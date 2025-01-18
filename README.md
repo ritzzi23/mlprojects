@@ -1,5 +1,5 @@
 # mlprojects
-Competition:
+Competitions:
 1. Titanic - Machine Learning from Disaster: 
 https://www.kaggle.com/competitions/titanic
 2. Digit Recognizer: 
