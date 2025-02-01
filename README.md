@@ -1,6 +1,4 @@
-# mlprojects
-Competitions:
-## Kaggle Competitions and Solutions
+## Competitions and Solutions
 
 | Competition | Link | Solution |
 |-------------|------|----------|
