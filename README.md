@@ -2,8 +2,8 @@
 
 | Day | Competition | Link | Solution |
 |-----|-------------|------|----------|
-| **Titanic - Machine Learning from Disaster** | [Kaggle Competition](https://www.kaggle.com/competitions/titanic) | [Solution](https://tinyurl.com/TitanicSurvivalPrediction) |
-| **Titanic - Machine Learning from Disaster** | [Kaggle Competition](https://www.kaggle.com/competitions/titanic) | [Solution](https://tinyurl.com/TitanicSurvivalPrediction) |
+|Day-1| **Titanic - Machine Learning from Disaster** | [Kaggle Competition](https://www.kaggle.com/competitions/titanic) | [Solution](https://tinyurl.com/TitanicSurvivalPrediction) |
+|Day-1| **Titanic - Machine Learning from Disaster** | [Kaggle Competition](https://www.kaggle.com/competitions/titanic) | [Solution](https://tinyurl.com/TitanicSurvivalPrediction) |
 
 
 <!-- 2. Digit Recognizer: 
